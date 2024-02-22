@@ -1,5 +1,6 @@
 # Todo example using Supabase
 
+
 - Frontend:
   - [Next.js](https://github.com/vercel/next.js) - a React framework for production.
   - [Tailwind](https://tailwindcss.com/) for styling and layout.
